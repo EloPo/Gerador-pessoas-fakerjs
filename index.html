@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+    <link rel="stylesheet" href="style.css">
+    <title>Gerador de pessoas</title>
+</head>
+
+<body>
+    <h1>Gerador de pessoas</h1>
+
+    <div>
+        <input type="text" id="name" placeholder="Digite um nome">
+        <i class="material-icons" onclick="copy()">content_copy</i>
+        <input type="email" id="email" placeholder="Digite o email">
+        <i class="material-icons" onclick="copy()">content_copy</i>
+        <input type="text" id="city" placeholder="Digite uma cidade">
+        <i class="material-icons" onclick="copy()">content_copy</i>
+        <input type="text" id="zipcode" placeholder="Digite o CEP">
+        <i class="material-icons" onclick="copy()">content_copy</i>
+        <input type="text" id="country" placeholder="Digite o país">
+        <i class="material-icons" onclick="copy()">content_copy</i>
+
+        <button>Gerar pessoa</button>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Faker/3.1.0/faker.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

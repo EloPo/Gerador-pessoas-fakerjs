@@ -1,0 +1,44 @@
+*{
+    background: #407695;
+}
+
+h1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 56px;
+    color: #fff;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input, button{
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 15px;
+    width: 25%;
+    border: 2px solid #fff;
+    color: #fff;
+
+}
+::-webkit-input-placeholder {
+    color: #fff;
+ }
+
+i{
+    display: inline-block;
+    position: relative;
+    top: -31px;
+    right: -240px;
+    color: #fff;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+i:active{
+    color: #c2c2c2
+}
