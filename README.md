@@ -1,6 +1,6 @@
 # Gerador de pessoas usando o Fakerjs
 
-Este projeto tem o intuito de gerar pessoas do mundo todo.
+Este projeto tem o intuito de gerar pessoas fakes do mundo todo.
 
 A ideia é que você possa selecionar os dados que quer de uma só vez e gerar eles. Exemplo: Seleciono: nome e sobrenome, telefone, email, endereço completo. depois é só clicar em "Gerar dados" que será retornado o valor dos dados selecionados.
 
