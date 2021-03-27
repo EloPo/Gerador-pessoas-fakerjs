@@ -4,7 +4,7 @@ Este projeto tem o intuito de gerar pessoas fakes do mundo todo.
 
 A ideia é que você possa selecionar os dados que quer de uma só vez e gerar eles. Exemplo: Seleciono: nome e sobrenome, telefone, email, endereço completo. depois é só clicar em "Gerar dados" que será retornado o valor dos dados selecionados.
 
-Atualmente é a primeira versão, só gerar os dados mesmo com os campos pré definidos somente para ver como funciona o fakerjs, na próxima versão estará mais robusto.
+Atualmente é a primeira versão, só gera os dados mesmo com os campos pré definidos somente para ver como funciona o fakerjs, na próxima versão estará mais robusto.
 
 ## Em que momentos usar este projeto?
 Para gerar pessoas fakes tanto para testes quanto para a parte de investigação digital na internet.
