@@ -12,3 +12,5 @@ Para gerar pessoas fakes tanto para testes quanto para a parte de investigação
 ## O que é o fakerjs?
 Um gerador de grandes quantidades de dados falsos em js, se tem a versão "mundial" de dados fakes e a versão br.
 
+### Quer saber mais sobre o fakerjs?
+Acesse: https://www.npmjs.com/package/faker
